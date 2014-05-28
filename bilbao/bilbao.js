@@ -27,7 +27,7 @@
 		"colorSpecular" : [0.3333333432674408, 0.3333333432674408, 0.3333333432674408],
 		"depthTest" : true,
 		"depthWrite" : true,
-		"mapDiffuse" : "bilbao2.jpg",
+		"mapDiffuse" : "https://raw.githubusercontent.com/nicolasrannou/models/master/bilbao/bilbao2.jpg",
 		"mapDiffuseWrap" : ["repeat", "repeat"],
 		"shading" : "Lambert",
 		"specularCoef" : 50,
